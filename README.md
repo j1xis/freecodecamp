@@ -6,4 +6,4 @@
 
 ## JavaScript Algorithms and Data Structures
 ###### Basic JavaScript - 113/113
-###### ES6 - 10/29
+###### ES6 - 29/29
