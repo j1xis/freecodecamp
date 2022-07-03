@@ -5,4 +5,5 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/j1xis/freecodecamp)
 
 ## JavaScript Algorithms and Data Structures
-###### Basic JavaScript 113/113
+###### Basic JavaScript - 113/113
+###### ES6 - 10/29
