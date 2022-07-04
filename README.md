@@ -7,4 +7,4 @@
 ## JavaScript Algorithms and Data Structures
 ###### Basic JavaScript - 113/113
 ###### ES6 - 29/29
-###### Regular Expressions - 5/33
+###### Regular Expressions - 15/33
