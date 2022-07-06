@@ -16,7 +16,7 @@
 ###### Intermediate Algorithm Scripting - 0/21
 
 ## Legacy Responsive Web Design
-###### Basic HTML and HTML5 - 10/28
+###### Basic HTML and HTML5 - 28/28
 ###### Basic CSS - 0/44
 ###### Applied Visual Design - 0/52
 ###### Applied Accessibility - 0/22
